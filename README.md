@@ -47,10 +47,10 @@ pip install -r requirements.txt
 
 3. **Run the Code:**
 
-   Execute the Python script `stock_prediction.py` to train the LSTM model and make predictions. Make sure to update the file path if your data file has a different name.
+   Execute the Python script `stock_prediction.ipynb` to train the LSTM model and make predictions. Make sure to update the file path if your data file has a different name.
 
    ```bash
-   python stock_prediction.py
+   python stock_prediction.ipynb
    ```
 
 4. **View Results:**
