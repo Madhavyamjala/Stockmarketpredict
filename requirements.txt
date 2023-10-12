@@ -1,0 +1,7 @@
+The required libraries are:
+
+1. pandas
+2. matplotlib
+3. numpy
+4. tensorflow
+5. seaborn
