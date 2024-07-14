@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 2. **Download Data:**
 
-   Download the historical stock price dataset (e.g., `all_stocks_5yr.csv`) and place it in the project directory.
+   Download the historical stock price dataset ( `all_stocks_5yr.csv`) and place it in the project directory.
 
 3. **Run the Code:**
 
@@ -60,9 +60,3 @@ pip install -r requirements.txt
 ## Results
 
 The model will generate predictions for the test data and compare them with the actual stock prices. The evaluation metrics (Mean Squared Error and Root Mean Squared Error) will also be printed to the console.
-
----
-
-Feel free to reach out if you have any questions or suggestions!
-
-*Note: Please make sure to replace `Madhavyamjala` with your actual GitHub username in the clone command.*
